@@ -1,0 +1,19 @@
+.logo{
+    mix-blend-mode: difference;
+}
+
+.active{
+    background: black;
+    color: #fff;
+    padding: 0.4rem 0.6rem;
+}
+
+.page{
+    height: 100vh;
+    padding: 1rem;
+    width: 100%;
+    background-color: blanchedalmond;
+    align-items: center;
+    color: #000000;
+    font-weight: 900;
+}
